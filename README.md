@@ -133,7 +133,7 @@ python -m food_vk_bot.main
 Для Windows PowerShell это будет так же:
 
 ```powershell
-cd E:\Projects_VC_ZC_home\VPd04
+cd E:\Projects_VC_ZC_home\culinary_assistant_vk_bot
 python -m food_vk_bot.main
 ```
 
@@ -169,4 +169,4 @@ python -m food_vk_bot.main
 
 ## Лицензия
 
-Этот проект создан для личного использования и разработки учебного бота в VK.
+Этот проект создан для личного использования и разработки бота в VK.
